@@ -22,11 +22,11 @@ I apply **Clean Code**, **SOLID principles**, **design patterns**, and agile met
 🔧 I enjoy designing both backend logic and responsive interfaces, turning ideas into functional systems that solve real-world needs.
 
 📚 Certifications:
-- Scrum Fundamentals Certified (SFC)
-- System & IT Infrastructure Services
-- Technical Support Fundamentals
-- Learning How to Learn
-- Intro to Web Development I & II
+- [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1091363)
+- [System & IT Infrastructure Services](https://www.coursera.org/account/accomplishments/records/E72R5JDX37U2)
+- [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/records/8UCBJ94ZNMSP)
+- [Learning How to Learn](https://www.coursera.org/account/accomplishments/records/Q7ZWVPATYEMS)
+- [Intro to Web Development I & II](http://LEARNDIGITAL.WITHGOOGLE.COM/ACTIVATE/validate-certificate-code)
 
 Outside of tech, I enjoy reading, playing football ⚽, and occasionally riding my bike to relax and recharge.
 
