@@ -14,7 +14,7 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
-I am a final-year **Computer Engineering** student at the **University of Costa Rica**, passionate about full-stack development and problem-solving through technology.
+Final-year **Computer Engineering** student at the **University of Costa Rica**, passionate about full-stack development and problem-solving through technology.
 
 I have experience building scalable and dynamic applications using technologies such as **Vue.js**, **Laravel**, **Node.js**, **ASP.NET**, **C#**, **Ionic**, **TypeScript**, and relational databases like **MySQL**, **PostgreSQL**, and **SQL Server**.  
 I apply **Clean Code**, **SOLID principles**, **design patterns**, and agile methodologies like **Scrum** to every project I take on.
