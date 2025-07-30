@@ -76,6 +76,20 @@ Outside of tech, I enjoy reading, playing football ⚽, and occasionally riding 
 
 ## 📈 GitHub Stats
 
-[![Fabricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Alvarez&show_icons=true&theme=tokyonight)](https://github.com/Fabricio-Alvarez)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Alvarez&theme=material-palenight)](https://github.com/Fabricio-Alvarez)
+<p align="center">
+  <a href="https://github.com/Fabricio-Alvarez">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fabricio-Alvarez&show_icons=true&theme=tokyonight" alt="Fabricio's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Fabricio-Alvarez">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Alvarez&theme=material-palenight" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabricio-Alvarez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+</p>
+
 
