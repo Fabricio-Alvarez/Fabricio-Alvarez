@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center"><b>Hi, I'm Fabricio Álvarez Ruiz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Developer%20💻;Full-Stack%20Developer%20🧩;Problem%20Solver%20🧠;Loves%20Technology%20⚙️;Always%20Learning%20Something%20New%20📚;Open%20to%20Collaborate%20🤝&font=Fira%20Code&center=true&width=600&height=45">
+  </a>
+</p>
 
-<!--
-**Fabricio-Alvarez/Fabricio-Alvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" width="300px" alt="Thinking developer" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
+
+I am a final-year **Computer Engineering** student at the **University of Costa Rica**, passionate about full-stack development and problem-solving through technology.
+
+I have experience building scalable and dynamic applications using technologies such as **Vue.js**, **Laravel**, **Node.js**, **ASP.NET**, **C#**, **Ionic**, **TypeScript**, and relational databases like **MySQL**, **PostgreSQL**, and **SQL Server**.  
+I apply **Clean Code**, **SOLID principles**, **design patterns**, and agile methodologies like **Scrum** to every project I take on.
+
+🔧 I enjoy designing both backend logic and responsive interfaces, turning ideas into functional systems that solve real-world needs.
+
+📚 Certifications:
+- Scrum Fundamentals Certified (SFC)
+- System & IT Infrastructure Services
+- Technical Support Fundamentals
+- Learning How to Learn
+- Intro to Web Development I & II
+
+Outside of tech, I enjoy reading, playing football ⚽, and occasionally riding my bike to relax and recharge.
+
+📫 Contact me: [alvarezruizfabricio@gmail.com](mailto:alvarezruizfabricio@gmail.com)
+
+---
+
+## ⚙️ Technologies I Work With
+
+### 💻 Languages & Frameworks
+<span>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</span>
+
+### 🧰 Tools & Technologies
+<span>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</span>
+
+---
+
+## 🔗 Social Media
+
+<a href="https://www.instagram.com/fabricio.alvarez.cr/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/fabricio-álvarez-ruiz-b36b0b345">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+---
+
+## 📈 GitHub Stats
+
+[![Fabricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Alvarez&show_icons=true&theme=tokyonight)](https://github.com/Fabricio-Alvarez)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Alvarez&theme=material-palenight)](https://github.com/Fabricio-Alvarez)
+
