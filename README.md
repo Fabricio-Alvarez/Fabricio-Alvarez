@@ -68,7 +68,7 @@ Outside of tech, I enjoy reading, playing football ⚽, and occasionally riding 
 <a href="https://www.instagram.com/fabricio.alvarez.cr/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/fabricio-álvarez-ruiz-b36b0b345">
+<a href="https://www.linkedin.com/in/fabricio-álvarez-ruiz-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
