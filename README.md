@@ -14,6 +14,7 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 I’m a **Software Engineer** specialized in **Frontend Development**, focused on building polished, responsive, and maintainable interfaces. I enjoy turning designs and requirements into production-ready experiences, with strong attention to usability and detail. I have experience working with dynamic data and API integrations, and I adapt well to environments that require collaboration, speed, and strong analytical thinking. I’m known for continuous learning, teamwork, and a practical approach to problem-solving.
+
 I apply **Clean Code**, **SOLID principles**, **design patterns**, and agile methodologies like **Scrum** to every project I take on.
 
 🔧 I enjoy designing both backend logic and responsive interfaces, turning ideas into functional systems that solve real-world needs.
