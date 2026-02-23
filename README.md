@@ -17,7 +17,7 @@ I’m a **Software Engineer** specialized in **Frontend Development**, focused o
 
 I apply **Clean Code**, **SOLID principles**, **design patterns**, and agile methodologies like **Scrum** to every project I take on.
 
-🔧 I enjoy designing both backend logic and responsive interfaces, turning ideas into functional systems that solve real-world needs.
+🔧 I enjoy designing as much as I enjoy translating designs into responsive interfaces, turning ideas into functional systems that solve real-world needs.
 
 📚 Certifications:
 - [Fundamentals of Cybersecurity](https://ideas-school-047f.thinkific.com/certificates/yvre0vw3oz)
