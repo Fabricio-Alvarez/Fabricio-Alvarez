@@ -13,11 +13,14 @@
 
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
-I’m a **Software Engineer** specialized in **Frontend Development**, focused on building polished, responsive, and maintainable interfaces. I enjoy turning designs and requirements into production-ready experiences, with strong attention to usability and detail. I have experience working with dynamic data and API integrations, and I adapt well to environments that require collaboration, speed, and strong analytical thinking. I’m known for continuous learning, teamwork, and a practical approach to problem-solving.
+Software Engineer | Frontend-Focused & Full-Stack Developer | React · Vue.js · C# · ASP.NET · SQL · REST APIs | Building polished, scalable, responsive UI
 
-I apply **Clean Code**, **SOLID principles**, **design patterns**, and agile methodologies like **Scrum** to every project I take on.
 
-🔧 I enjoy designing as much as I enjoy translating designs into responsive interfaces, turning ideas into functional systems that solve real-world needs.
+Results-driven **Software Engineer**, with a strong focus on **Frontend Development**, while also being comfortable contributing across the full stack when needed. I enjoy building polished, responsive, and maintainable digital experiences that turn designs and requirements into real, production-ready solutions. I have experience working with dynamic data, API integrations, user interfaces, and backend-related tasks that support complete application flows. I adapt well to environments that require collaboration, speed, analytical thinking, and attention to detail. I’m known for continuous learning, teamwork, and a practical approach to problem-solving.
+
+I write clean, scalable, and maintainable code by applying best practices such as SOLID principles, design patterns, and agile methodologies like Scrum.
+
+
 
 📚 Certifications:
 - [Fundamentals of Cybersecurity](https://ideas-school-047f.thinkific.com/certificates/yvre0vw3oz)
@@ -27,7 +30,7 @@ I apply **Clean Code**, **SOLID principles**, **design patterns**, and agile met
 - [Learning How to Learn](https://www.coursera.org/account/accomplishments/records/Q7ZWVPATYEMS)
 - [Intro to Web Development I & II](http://LEARNDIGITAL.WITHGOOGLE.COM/ACTIVATE/validate-certificate-code)
 
-Outside of tech, I enjoy reading, playing football ⚽, and occasionally riding my bike to relax and recharge.
+Outside of tech, I enjoy reading, playing football, hiking, and cycling as ways to stay active, recharge, and maintain a balanced mindset.
 
 📫 Contact me: [alvarezruizfabricio@gmail.com](mailto:alvarezruizfabricio@gmail.com)
 
