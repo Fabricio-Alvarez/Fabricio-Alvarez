@@ -13,8 +13,6 @@
 
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
-Software Engineer | Frontend-Focused & Full-Stack Developer | React · Vue.js · C# · ASP.NET · SQL · REST APIs | Building polished, scalable, responsive UI
-
 
 Results-driven **Software Engineer**, with a strong focus on **Frontend Development**, while also being comfortable contributing across the full stack when needed. I enjoy building polished, responsive, and maintainable digital experiences that turn designs and requirements into real, production-ready solutions. I have experience working with dynamic data, API integrations, user interfaces, and backend-related tasks that support complete application flows. I adapt well to environments that require collaboration, speed, analytical thinking, and attention to detail. I’m known for continuous learning, teamwork, and a practical approach to problem-solving.
 
